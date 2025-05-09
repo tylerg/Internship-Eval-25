@@ -24,29 +24,10 @@ The script expects the following CSV files in the working directory:
 ## How to Run
 
 1. Ensure that the required datasets (`patients.csv` and `conditions.csv`) are present in the working directory.
-2. Install the necessary libraries:
+2. Run the notebook:
 
 ```bash
-pip install pandas numpy
-```
-
-3. Run the notebook:
-
-```bash
-jupyter notebook InternshipEval25.ipynb
-```
-
-1. Ensure that the required datasets (`patients.csv` and `conditions.csv`) are present in the working directory.
-2. Install the necessary libraries:
-
-```bash
-pip install pandas numpy
-```
-
-3. Run the script:
-
-```bash
-python ckd_stage_progression.py
+jupyter notebook Internship_Eval_25.ipynb
 ```
 
 ## Script Overview
