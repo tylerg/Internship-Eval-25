@@ -77,5 +77,3 @@ Patient ID: 001
 * Multiple diagnoses on the same day are resolved by selecting the highest stage for that day.
 * Stage 0 is used to identify general CKD presence but is excluded from stage-to-stage progression calculations.
 * ESRD (Stage 6) is determined from dialysis-related diagnoses.
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
